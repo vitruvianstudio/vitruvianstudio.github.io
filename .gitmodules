@@ -1,0 +1,3 @@
+[submodule "spritesheets"]
+	path = spritesheets
+	url = https://github.com/vitruvianstudio/spritesheets.git
